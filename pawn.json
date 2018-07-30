@@ -7,15 +7,15 @@
 		"sampctl/samp-stdlib",
 		"pawn-lang/YSI-Includes",
 		"Southclaws/samp-logger",
-		"Dystopian-Roleplay/mathutil",
+		"Dystopian-Roleplay/mathutil@2.0.0",
 		"Southclaws/progress2",
-		"Dystopian-Roleplay/tick-difference",
-		"Dystopian-Roleplay/energy",
-		"Dystopian-Roleplay/action-text",
-		"Dystopian-Roleplay/language"
+		"Dystopian-Roleplay/tick-difference@2.0.0",
+		"Dystopian-Roleplay/energy@2.0.0",
+		"Dystopian-Roleplay/action-text@2.0.0",
+		"Dystopian-Roleplay/language@2.0.0"
 	],
 	"dev_dependencies": [
-		"Dystopian-Roleplay/test-boilerplate",
+		"Dystopian-Roleplay/test-boilerplate@2.0.0",
 		"Southclaws/zcmd",
 		"oscar-broman/strlib"
 	]
