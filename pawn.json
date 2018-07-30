@@ -7,15 +7,15 @@
 		"sampctl/samp-stdlib",
 		"pawn-lang/YSI-Includes",
 		"Southclaws/samp-logger",
-		"ScavengeSurvive/mathutil",
+		"Dystopian-Roleplay/mathutil",
 		"Southclaws/progress2",
-		"ScavengeSurvive/tick-difference",
-		"ScavengeSurvive/energy",
-		"ScavengeSurvive/action-text",
-		"ScavengeSurvive/language"
+		"Dystopian-Roleplay/tick-difference",
+		"Dystopian-Roleplay/energy",
+		"Dystopian-Roleplay/action-text",
+		"Dystopian-Roleplay/language"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate",
+		"Dystopian-Roleplay/test-boilerplate",
 		"Southclaws/zcmd",
 		"oscar-broman/strlib"
 	]
